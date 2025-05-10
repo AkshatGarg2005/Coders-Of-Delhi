@@ -26,7 +26,3 @@ A beginner-level data analysis project in pure Python (standard library only). D
 
 - Python 3.x
 
-## Usage
-
-```bash
-python coders_of_delhi.py
